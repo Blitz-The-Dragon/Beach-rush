@@ -2,7 +2,7 @@
 
 A five-day World War II story game that runs in your browser. It's one HTML file with nothing to install, and it works offline.
 
-### ▶ [Play it here](https://blitz-the-dragon.github.io/beach-rush/)
+### ▶ [Play it here](https://blitz-the-dragon.github.io/Beach-rush/)
 
 ![Omaha Beach, H-Hour](media/beach.jpg)
 
